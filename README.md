@@ -1,2 +1,2 @@
 # IT_Demo
-Just a Demo to begin
+Just a Demo to begin Git &amp; Github.
