@@ -5,4 +5,4 @@ Just a Demo to begin Git &amp; Github.
 Anshul Baghel
 
 # Student
-RKGIT
+RKGIT.
